@@ -1,1 +1,3 @@
 # Leaf-disease-detection-model
+Welcome to the Leaf Disease Detection notebook! 🌿
+In this notebook, we'll dive into the fascinating world of plant pathology and explore how deep learning techniques can be utilized to automatically classify plant leaves as healthy or infected. Leveraging the Plant Disease Recognition Dataset from Kaggle, we'll train a convolutional neural network (CNN) model to accurately identify various leaf diseases, aiding in early detection and proactive agricultural management. Join me on this journey as we harness the power of data science to revolutionize disease detection in agriculture!
